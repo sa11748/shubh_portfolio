@@ -1,0 +1,26 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - Jul 2025",
+            "cardTitle": "B.E , Information Technology",
+            "cardSubtitle":"University Institute of Technology, Burdwan",
+            "cardDetailedText": "CGPA - 8.10",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2021",
+            "cardTitle": "Senior School Examination(12th)",
+            "cardSubtitle":"D.A.V. Public School Hehal , Ranchi , Jharkhand",
+            "cardDetailedText": "Marks - 75.50%"
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "Secondary School Examination(10th)",
+            "cardSubtitle":"D.A.V. Public School Hehal , Ranchi , Jharkhand",
+            "cardDetailedText": "Marks - 86.83%"
+        }
+
+    ]
+}

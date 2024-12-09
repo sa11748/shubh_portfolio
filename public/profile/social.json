@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shubhangi-adhikary/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/sa11748"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:shubhangishubhi490@gmail.com"
+        }
+    ]
+}

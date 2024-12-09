@@ -1,0 +1,15 @@
+{
+    "short_name": "Shubhangi Adhikary",
+    "name": "Shubhangi Adhikary - Portfolio",
+    "icons": [
+      {
+        "src": "images/logo.png",
+        "type": "image/png",
+        "sizes": "425x225"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }

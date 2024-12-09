@@ -1,0 +1,80 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Personal Portfolio",
+            "bodyText": "- Portfolio Website made in React\n -  Fully customisable and dynamic, Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Code Pen",
+            "bodyText": "- Built a code editor with React.js and CodeMirror6",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa11748/Code_Pen"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Weather Website",
+            "bodyText": "- Developing an intuitive weather website that fetches and displays organized weather data,",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa11748/Weather-App"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Math Bot",
+            "bodyText": "- Developed an interactive web app with a functional calculator",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sa11748/MathBot"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "JavaScript"
+            ]
+        }
+
+    ]
+}
